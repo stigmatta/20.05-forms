@@ -1,0 +1,21 @@
+.alert{
+    color: red;
+}
+
+input.ng-touched.ng-invalid {border:solid red 2px;}
+input.ng-touched.ng-valid {border:solid green 2px;}
+
+form{
+    width: 100%;
+}
+
+button{
+    margin-inline:  auto;
+    margin-block:1em;
+    padding: 1.5em;
+    border-radius: 1em;
+}
+
+div{
+    text-align: center;
+}
